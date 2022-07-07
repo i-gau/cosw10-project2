@@ -6,6 +6,8 @@
     left: 10px;
     overflow-x: hidden;
     padding-top: 25px;
+    display: block;
 }
-body {background-color: lightblue;
+body {margin-left: 110px;
+    background-color: lightblue;
 }
