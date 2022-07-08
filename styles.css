@@ -1,16 +1,12 @@
-.sidenav {
-    width: 100px;
-    position: fixed;
-    z-index: 1;
-    top: 30px;
-    left: 10px;
-    overflow-x: hidden;
-    padding-top: 25px;
-    display: block;
-}
 body {
     background-image: url("https://raw.githubusercontent.com/i-gau/cosw10-project2/main/imgback.jpg");
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
     
+}
+#ingredients {
+    margin-bottom: 30px;
+}
+#prep {
+    margin-bottom: 30px;
 }
