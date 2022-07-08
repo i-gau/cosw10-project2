@@ -27,3 +27,9 @@ h1 {
 #prep {
     margin-bottom: 60px;
 }
+.ingred-list {
+    float: left;
+}
+.board {
+    float: right;
+}
