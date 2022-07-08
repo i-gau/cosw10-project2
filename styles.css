@@ -10,7 +10,7 @@ body {
     background-image: url("https://raw.githubusercontent.com/i-gau/cosw10-project2/main/imgback.jpg");
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
-    background-attachment: local;
+    background-attachment: fixed;
     margin-left: 180px;
     font-size: 25px;
 }
