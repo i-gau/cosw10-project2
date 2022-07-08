@@ -9,5 +9,6 @@
     display: block;
 }
 body {background-image: url("https://github.com/i-gau/cosw10-project2/blob/main/imgback.jpg?raw=true");
-    background-size: auto;
+    background-repeat: no-repeat;
+    
 }
