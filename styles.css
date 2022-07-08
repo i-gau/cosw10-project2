@@ -1,7 +1,7 @@
 .sidenav {
-    width: 140px;
+    width: 160px;
     top: 40px;
-    left: 15px;
+    left: 20px;
     position: fixed;
     text-decoration: none;
     font-size: 28px;
@@ -10,9 +10,12 @@ body {
     background-image: url("https://raw.githubusercontent.com/i-gau/cosw10-project2/main/imgback.jpg");
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
-    background-attachment: scroll;
-    margin-left: 160px;
+    background-attachment: local;
+    margin-left: 180px;
     font-size: 25px;
+}
+h1 {
+    text-align: center;
 }
 #themeal {
     margin-top: 30px;
