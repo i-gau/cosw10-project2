@@ -8,6 +8,6 @@
     padding-top: 25px;
     display: block;
 }
-body {margin-left: 110px;
-    background-color: lightblue;
+body {background-image: url("https://github.com/i-gau/cosw10-project2/blob/main/imgback.jpg?raw=true");
+    background-size: auto;
 }
