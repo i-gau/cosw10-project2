@@ -22,7 +22,7 @@ h1 {
     margin-bottom: 60px;
 }
 #ingredients {
-    margin-bottom: 60px;
+    margin-bottom: 200px;
 }
 #prep {
     margin-bottom: 60px;
@@ -30,6 +30,6 @@ h1 {
 .ingred-list {
     float: left;
 }
-.board {
+.board-img {
     float: right;
 }
