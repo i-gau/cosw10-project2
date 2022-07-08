@@ -1,10 +1,10 @@
 .sidenav {
-    width: 160px;
+    width: 200px;
     top: 40px;
     left: 20px;
     position: fixed;
     text-decoration: none;
-    font-size: 28px;
+    font-size: 26px;
 }
 body {
     background-image: url("https://raw.githubusercontent.com/i-gau/cosw10-project2/main/imgback.jpg");
@@ -17,9 +17,9 @@ body {
 h1 {
     text-align: center;
 }
-#themeal {
-    margin-top: 30px;
-    margin-bottom: 60px;
+#theboard {
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 #ingredients {
     margin-bottom: 200px;
@@ -32,4 +32,5 @@ h1 {
 }
 .board-img {
     float: right;
+    margin-left: 50px;
 }
