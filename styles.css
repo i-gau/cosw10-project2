@@ -3,6 +3,7 @@
     top: 40px;
     left: 20px;
     position: fixed;
+    padding: 10px;
     text-decoration: none;
     font-size: 26px;
     overflow: auto;
@@ -25,6 +26,7 @@ h1 {
 }
 #ingredients {
     margin-bottom: 200px;
+    margin-right: 10px;
 }
 
 .ingred-list {
