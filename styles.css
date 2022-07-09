@@ -1,5 +1,5 @@
 .sidenav {
-    width: 250px;
+    width: 240px;
     top: 40px;
     left: 20px;
     position: fixed;
@@ -18,8 +18,8 @@ h1 {
     text-align: center;
 }
 #theboard {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 200px;
+    margin-bottom: 200px;
 }
 #ingredients {
     margin-bottom: 200px;
@@ -36,8 +36,8 @@ h1 {
     float: right;
     margin-left: 60px;
     margin-bottom: 200px;
-    border: 5px solid #68a357;
+    border: 1px solid #68a357;
 }
 .wine {
-    border: 5px solid #494949;
+    border: 1px solid #494949;
 }
