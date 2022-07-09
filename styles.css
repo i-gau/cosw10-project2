@@ -3,7 +3,6 @@
     top: 40px;
     left: 20px;
     position: fixed;
-    margin-bottom: 18px;
     text-decoration: none;
     font-size: 26px;
     overflow: auto;
@@ -36,11 +35,11 @@ h1 {
 .board-img {
     float: right;
     margin-left: 20px;
-    margin-right: 600px;
+    margin-right: 550px;
     margin-bottom: 100px;
 }
 .board2 {
-    margin-left: 50px;
+    margin-left: 10px;
 } 
 
 #prep {
