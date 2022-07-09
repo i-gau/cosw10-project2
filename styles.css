@@ -1,5 +1,5 @@
 .sidenav {
-    width: 200px;
+    width: 250px;
     top: 40px;
     left: 20px;
     position: fixed;
@@ -11,26 +11,30 @@ body {
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin-left: 180px;
+    margin-left: 260px;
     font-size: 25px;
 }
 h1 {
     text-align: center;
 }
 #theboard {
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 #ingredients {
-    margin-bottom: 200px;
+    margin-bottom: 300px;
 }
 #prep {
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 }
 .ingred-list {
     float: left;
 }
 .board-img {
     float: right;
-    margin-left: 50px;
+    margin-left: 60px;
+    border: 5px; color: #68a357;
+}
+.wine {
+    border: 5px; color: #494949;
 }
