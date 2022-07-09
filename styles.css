@@ -9,6 +9,7 @@
     overflow: auto;
 }
 .berry {
+    margin-bottom: 20px;
     border-radius: 50%;
 }
 body {
@@ -41,6 +42,7 @@ h1 {
     margin-left: 10px;
     margin-right: 500px;
     margin-bottom: 100px;
+    border-radius: 25px;
 }
 
 
