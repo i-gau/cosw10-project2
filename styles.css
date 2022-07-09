@@ -5,6 +5,7 @@
     position: fixed;
     text-decoration: none;
     font-size: 26px;
+    overflow: auto;
 }
 body {
     background-image: url("https://raw.githubusercontent.com/i-gau/cosw10-project2/main/imgback.jpg");
@@ -12,6 +13,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin-left: 260px;
+    font-family: 'Kite One', sans-serif;
     font-size: 25px;
 }
 h1 {
@@ -19,25 +21,26 @@ h1 {
 }
 #theboard {
     margin-top: 200px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 }
 #ingredients {
     margin-bottom: 200px;
 }
-#prep {
-    margin-top: 100px;
-    margin-bottom: 100px;
-}
+
 .ingred-list {
     float: left;
     margin-bottom: 200px;
 }
 .board-img {
     float: right;
-    margin-left: 60px;
-    margin-bottom: 200px;
-    border: 1px solid #68a357;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    border: 3px solid #68a357;
+}
+#prep {
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 .wine {
-    border: 1px solid #494949;
+    border: 3px solid #494949;
 }
