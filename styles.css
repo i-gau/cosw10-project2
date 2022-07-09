@@ -22,19 +22,22 @@ h1 {
     margin-bottom: 100px;
 }
 #ingredients {
-    margin-bottom: 300px;
+    margin-bottom: 200px;
 }
 #prep {
+    margin-top: 100px;
     margin-bottom: 100px;
 }
 .ingred-list {
     float: left;
+    margin-bottom: 200px;
 }
 .board-img {
     float: right;
     margin-left: 60px;
-    border: 5px; color: #68a357;
+    margin-bottom: 200px;
+    border: 5px solid #68a357;
 }
 .wine {
-    border: 5px; color: #494949;
+    border: 5px solid #494949;
 }
