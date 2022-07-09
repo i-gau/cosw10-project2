@@ -3,7 +3,7 @@
     top: 40px;
     left: 20px;
     position: fixed;
-    padding: 10px;
+    margin-bottom: 18px;
     text-decoration: none;
     font-size: 26px;
     overflow: auto;
@@ -36,14 +36,14 @@ h1 {
 .board-img {
     float: right;
     margin-left: 20px;
-    margin-right: 400px;
+    margin-right: 600px;
     margin-bottom: 100px;
-    border: 3px solid #68a357;
 }
+.board2 {
+    margin-left: 50px;
+} 
+
 #prep {
     margin-top: 100px;
     margin-bottom: 100px;
-}
-.wine {
-    border: 3px solid #494949;
 }
